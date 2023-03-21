@@ -1,7 +1,5 @@
 References
 
-https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/
-
  About the PSRAM(Pseudo-static RAM)it could be helpful if we plan to process the images before saving them to the SD card
     but if like in that programme we simply want to take photos and save them to the SD card without processin so we may not need PSRAM.
 
